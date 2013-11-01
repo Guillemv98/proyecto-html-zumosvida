@@ -1,0 +1,29 @@
+header {
+	background-color: black;
+}
+
+h1 {
+	color: #00c0ff;
+	font-size: 75px;
+}
+
+div {
+	background-color: #00c0ff; 
+}
+
+image {
+	float: right;
+}
+
+footer {
+	font-size: 25px;
+	background-color: black;
+}
+
+h2 {
+	color: #00c0ff;
+}
+
+body {
+	background-color: #00c0ff
+}
